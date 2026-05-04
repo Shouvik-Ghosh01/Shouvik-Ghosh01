@@ -3,10 +3,10 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:  
+  workflow_dispatch:
 
 permissions:
-  contents: write   
+  contents: write   # 🔥 THIS IS THE FIX
 
 jobs:
   build:
@@ -22,5 +22,6 @@ jobs:
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}   # 🔥 REQUIRED
           target_branch: output
           build_dir: dist
