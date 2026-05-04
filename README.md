@@ -67,7 +67,6 @@ LLM-powered blog generation system
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shouvik-Ghosh01&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shouvik-Ghosh01&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
