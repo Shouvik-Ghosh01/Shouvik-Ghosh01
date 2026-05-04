@@ -56,11 +56,6 @@ I'm **Shouvik Ghosh**, a Software Engineer passionate about building **AI-powere
 
 ---
 
-## ✍️ Blog & Learning (Optional Section)
-- Coming soon... 🚀 *(Add Medium/Dev.to later if needed)*
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -80,7 +75,7 @@ Production-ready ML project for agricultural prediction
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/shouvikghosh01
-- 📫 Email: your-email@example.com
+- 📫 Email: shouvikghosh412@gmail.com
 
 ---
 
